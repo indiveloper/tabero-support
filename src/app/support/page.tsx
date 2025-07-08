@@ -75,7 +75,7 @@ export default function Support() {
           <h2 className="text-2xl font-bold text-gray-900 mb-6">Contact Us</h2>
           <div className="bg-white p-6 rounded-lg shadow-md">
             <p className="text-gray-700 mb-4">
-              Having issues or suggestions? We'd love to hear from you!
+              Having issues or suggestions? We&apos;d love to hear from you!
             </p>
             <div className="space-y-2">
               <p className="text-gray-700">
@@ -109,7 +109,7 @@ export default function Support() {
               language barriers and help people enjoy local cuisines with confidence.
             </p>
             <p className="text-gray-700 mb-4">
-              Whether you're a frequent traveler, food enthusiast, or someone with dietary restrictions, 
+              Whether you&apos;re a frequent traveler, food enthusiast, or someone with dietary restrictions, 
               Tabero makes ordering food abroad simple and stress-free.
             </p>
             <p className="text-gray-700 font-semibold">

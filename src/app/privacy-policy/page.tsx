@@ -9,8 +9,8 @@ export default function PrivacyPolicy() {
         </p>
 
         <p className="text-gray-700 mb-8">
-          Tabero (hereinafter "Company") values your personal information and complies with relevant laws and regulations. 
-          This privacy policy has been prepared in accordance with Apple's privacy guidelines.
+          Tabero (hereinafter &quot;Company&quot;) values your personal information and complies with relevant laws and regulations. 
+          This privacy policy has been prepared in accordance with Apple&apos;s privacy guidelines.
         </p>
 
         <section className="mb-12">
@@ -203,8 +203,8 @@ export default function PrivacyPolicy() {
         </section>
 
         <section className="mb-12">
-          <h2 className="text-2xl font-bold text-gray-900 mb-4">8. Children's Privacy</h2>
-          <p className="text-gray-700">We do not intentionally collect children's personal information.</p>
+          <h2 className="text-2xl font-bold text-gray-900 mb-4">8. Children&apos;s Privacy</h2>
+          <p className="text-gray-700">We do not intentionally collect children&apos;s personal information.</p>
         </section>
 
         <section className="mb-12">
